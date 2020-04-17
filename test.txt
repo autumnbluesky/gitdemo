@@ -1,3 +1,4 @@
 my test
 hello git
 add a third line
+hello java
