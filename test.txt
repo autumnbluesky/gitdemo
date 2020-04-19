@@ -5,3 +5,4 @@ hello java
 hello push remote ssh
 add spring boot
 add spring cloud
+add activemq
